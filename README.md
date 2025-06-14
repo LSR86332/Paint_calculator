@@ -1,2 +1,0 @@
-# Paint_calculator
-
